@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/db/ab/2f/dbab2f3be06e768e77a85f175e577955.gif)
 <h1 align="center">Hi 👋, I'm PRANAV</h1>
-<h3 align="center">I'AM ENGINEERING STUDENT & PYTHON DEVELOPER</h3>
+<h3 align="center">I'M ENGINEERING STUDENT & PYTHON DEVELOPER</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scoobyrocks&label=Profile%20views&color=0e75b6&style=flat" alt="scoobyrocks" /> </p>
