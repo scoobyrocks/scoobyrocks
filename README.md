@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.discordapp.com/attachments/1217868560978673785/1219168606835965982/93d6a2e3c389479c7c06dbd98a64bb3e.jpg?ex=660a523e&is=65f7dd3e&hm=b82716b7ccee6bd74f0d05f0ae4014ca01b48300f865eb8f264457c2abb11c96&)
+![MasterHead](https://i.pinimg.com/originals/db/ab/2f/dbab2f3be06e768e77a85f175e577955.gif)
 <h1 align="center">Hi 👋, I'm PRANAV</h1>
 <h3 align="center">I'AN ENGINEERING STUDENT & PYTHON DEVELOPER</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
